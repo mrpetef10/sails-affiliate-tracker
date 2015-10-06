@@ -1,5 +1,5 @@
 {
-  "name": "affiliate-tracker",
+  "name": "sails-affiliate-tracker",
   "version": "0.0.1",
   "description": "A simple http middleware package to track your websites affiliates visitors in a sails application",
   "main": "index.js",
